@@ -1,19 +1,5 @@
-div {
-	border: 2px;
-	margin: 5px;
-}
 
-#hideId{
-	display: none;
+#fourth{
+	background-color: red;
+	margin:5px;
 }
-
-h1 {
-	display: none;
-}
-
-.left{
-	display: none;
-}
-
-#fifth{
-	display: none;
