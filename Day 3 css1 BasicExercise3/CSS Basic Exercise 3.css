@@ -1,0 +1,21 @@
+li{
+	border: 3px;
+	border-color: red;
+}
+
+h2{
+	background-color: yellow;
+	font-family: arial;
+	color: red;
+	width: 100px;
+}
+
+.divgrey{
+	margin: 50px;
+	background-color: grey;
+	max-width: 500px;
+}
+
+h1{
+	color: red;
+}
