@@ -1,0 +1,19 @@
+div {
+	border: 2px;
+	margin: 5px;
+}
+
+#hideId{
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+.left{
+	display: none;
+}
+
+#fifth{
+	display: none;
